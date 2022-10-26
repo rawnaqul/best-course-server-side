@@ -1,0 +1,56 @@
+[
+    {
+        "id": "63352b555e15c0b9a1084e5f",
+        "index": 0,
+        "price": "$74.22",
+        "img": "./img-resources/poster6.png",
+        "name": "Javascript for Beginners",
+        "details": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
+        "duration": "5 Hours"
+    },
+    {
+        "id": "63352b55108e0d083f66d4a9",
+        "index": 1,
+        "price": "$79.59",
+        "img": "./img-resources/poster2.png",
+        "name": "Advanced Javascript",
+        "details": "In only seven hours you will learn enough javascript to transform from a Junior JS Dev into a Senior JS Guru",
+        "duration": "7 Hours"
+    },
+    {
+        "id": "63352b550f6e8cd10f40b74c",
+        "index": 2,
+        "price": "$49.77",
+        "img": "./img-resources/poster3.png",
+        "name": "The Full JavaScript & ES6 Tutorial",
+        "details": "The most in-depth course on ES6 around. Start with JavaScript, deep-dive into ES6, & even more (Webpack, ES7, & React)!",
+        "duration": "8.5 Hours"
+    },
+    {
+        "id": "63352b55c3ab6a0a6caa15cc",
+        "index": 3,
+        "price": "$71.17",
+        "img": "./img-resources/poster4.png",
+        "name": "Modern React with Redux",
+        "details": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+        "duration": "6.5 Hours"
+    },
+    {
+        "id": "63352b557aba5d0d0cc1d5c2",
+        "index": 4,
+        "price": "$22.72",
+        "img": "./img-resources/poster5.png",
+        "name": "React basic in just 1 hour [2022]",
+        "details": "MThe quick guide to learn basic concepts and workflow of how to build React app",
+        "duration": "1.5 Hours"
+    },
+    {
+        "id": "63352b55d614c669111ea135",
+        "index": 5,
+        "price": "$53.64",
+        "img": "./img-resources/poster1.png",
+        "name": "React JS Web Development - The Essentials Bootcamp",
+        "details": "Bootcamp on the React.js essentials: the React Core, React Router, Redux, Hooks, in-depth JS, and detailed guides.",
+        "duration": "7 Hours"
+    }
+]
