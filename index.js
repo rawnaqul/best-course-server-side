@@ -14,6 +14,11 @@ app.get("/", (req, res) => {
 app.get("/mycourses", (req, res) => {
     res.send(mycourses);
 })
+app.get('/mycourses/:id', (req, res) => {
+    const id = req.params.id;
+    const eachCourse = mycourses.find(course => course.id === id);
+    res.send(eachCourse);
+})
 
 app.listen(port, () => {
     console.log('my assign10 server running', port);
