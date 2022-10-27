@@ -14,7 +14,7 @@
         "index": 1,
         "price": "$79.59",
         "img": "https://i.postimg.cc/kgzMGhHT/img2.png",
-        "name": "Learning Python for Data Analysis and Visualization",
+        "name": "Learning Python for Data Analysis",
         "details": "Learn python and how to use it to analyze,visualize and present data. Includes tons of sample code and hours of video!",
         "duration": "7 Hours",
         "mentor": "Karim Benzema"
@@ -54,7 +54,7 @@
         "index": 5,
         "price": "$53.64",
         "img": "https://i.postimg.cc/3N8YzMyx/img6.png",
-        "name": "Python From Scratch & Selenium WebDriver QA Automation 2022",
+        "name": "Selenium WebDriver QA Automation 2022",
         "details": "2 courses in 1. Python and Selenium WebDriver from scratch for Automation Testing, SQL Crash Course, Framework Design and Bootcamp on the React.js essentials: the React Core, React Router, Redux, Hooks, in-depth JS, and detailed guides.",
         "duration": "7 Hours",
         "mentor": "Kuddus Ali"
